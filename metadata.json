@@ -1,0 +1,6 @@
+{
+  "name": "PCOS 分型决策系统",
+  "description": "基于国际鹿特丹诊断标准的PCOS多囊卵巢综合征分型筛查、认知纠偏及科学生活膳食辅助决策手册。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
